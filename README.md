@@ -20,12 +20,12 @@ Este projeto consiste em um **cronômetro desktop** desenvolvido em **Python**, 
 - Botões de controle (Iniciar, Pausar e Reiniciar)
 - Interface limpa e direta
 
-##📚 Objetivo do projeto
--Projeto desenvolvido para fins de estudo, com foco em:
--Controle de tempo em Python
--Manipulação de estados (executando, pausado e resetado)
--Criação de interfaces gráficas com Tkinter
--Organização da lógica de aplicação
+## 📚 Objetivo do projeto
+Projeto desenvolvido para fins de estudo, com foco em:
+- Controle de tempo em Python
+- Manipulação de estados (executando, pausado e resetado)
+- Criação de interfaces gráficas com Tkinter
+- Organização da lógica de aplicação
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 Guilherme Oliveira
